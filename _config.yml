@@ -17,7 +17,7 @@ author:
   bio              : "Incoming Senior Engineer – Platform Security @ Qualcomm. Working on confidential computing, kernel security, remote attestation, and secure 5G systems."
   location         : "Hyderabad, India"
   employer         : "Qualcomm"
-  uri              : "https://github.com/sudlaksh"
+  #uri              : "https://github.com/sudlaksh"
   email            : "sudhas1728@gmail.com"
 
   # Academic websites
