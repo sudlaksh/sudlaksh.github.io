@@ -25,17 +25,17 @@ CGPA: **8.68 / 10**
 
 ### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
 
-#### Security System Engineer — Ericsson HQ  
+#### Security System Engineer - Ericsson HQ  
 *Dec 2025 – Present | Kista, Sweden*  
 - Assessing risks and security posture of RAN compute and cloud infrastructure.
 
-#### Master’s Thesis Researcher — Ericsson Nomadic Lab (Publication)  
+#### Master’s Thesis Researcher - Ericsson Nomadic Lab (Publication)  
 *Mar 2025 – Sep 2025 | Kirkkonummi, Finland*  
 - Kernel-based Remote Attestation framework: eBPF system call tracing, TLS 1.3 packet analysis, Measured Boot, Trusted Platform Module (TPM).  
 - Loadable Kernel Module (LKM): kfuncs, crypto APIs, character devices; kernel-generated signing keys extended into TPM PCRs.  
 - Temporal Convolutional Neural Network (TCN) for anomaly detection in syscall sequences.
 
-#### Security Research Trainee — Ericsson Nomadic Lab  
+#### Security Research Trainee - Ericsson Nomadic Lab  
 *May 2024 – Aug 2024 | Kirkkonummi, Finland*  
 - Elastic QUIC Reverse Proxy within Intel SGX enclave: EGo, Golang, Attested TLS, Azure Attestation.  
 - Automated performance analysis: Python scripts to evaluate trade-offs between security and performance.
