@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-### ![Aalto Logo](/images/aalto-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
+### ![Aalto Logo](/images/aalto-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
 Aalto University, Finland & EURECOM, France  
 *Aug 2023 – Sep 2025*  
 CGPA: **4.74 / 5**
@@ -24,7 +24,7 @@ CGPA: **8.68 / 10**
 
 ## Experience
 
-### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:60px; height:60px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
+### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
 
 #### Security System Engineer — Ericsson HQ  
 *Dec 2025 – Present | Kista, Sweden*  
@@ -43,7 +43,7 @@ CGPA: **8.68 / 10**
 
 ---
 
-### ![Cisco Logo](/images/cisco-logo.png){: style="width:60px; height:60px; vertical-align:middle; margin-right:0.5rem;" } **Cisco Systems**  
+### ![Cisco Logo](/images/cisco-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Cisco Systems**  
 
 #### Network Consulting Engineer  
 *Jan 2020 – Aug 2023 | Bengaluru, India*  
