@@ -7,7 +7,7 @@ redirect_from:
 ---
 I am an incoming Senior Engineer - Platform Security at Qualcomm, Hyderabad, with experience in trusted computing, kernel security, and network automation.
 
-I hold an Erasmus Mundus Joint Master’s degree in Security and Cloud Computing, as part of which I completed studies at Aalto University, Finland, and EURECOM, France. My academic and research work spans confidential computing, remote attestation, eBPF-based monitoring, and secure 5G systems. I have contributed to research at Ericsson Nomadic Lab, Finland, focusing on kernel-level attestation, system call tracing, TLS analysis, and SGX-based secure networking.
+I hold an Erasmus Mundus Joint Master’s degree in Security and Cloud Computing, as part of which I completed studies at Aalto University, Finland, and EURECOM, France. My academic and research work spans confidential computing, remote attestation, eBPF-based monitoring, and secure 5G systems. I have contributed to research at Ericsson Nomadic Lab, Finland, focusing on kernel-level attestation, system call tracing, QUIC protocol, and SGX-based secure networking.
 
 Prior to my master’s, I worked at Cisco, where I contributed to automation and full-stack development for large-scale 5G packet core deployments using Kubernetes and containerized systems. My foundation in computer science began during my undergraduate studies at Amrita School of Engineering, Coimbatore, where I developed a strong interest in systems and security.
 
