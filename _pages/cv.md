@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-### ![Aalto Logo](/images/aalto-logo.png){: style="width:60px; height:60px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
+### ![Aalto Logo](/images/aalto-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
 Aalto University, Finland & EURECOM, France  
 *Aug 2023 – Sep 2025*  
 CGPA: **4.74 / 5**
 
-### ![Amrita Logo](/images/amrita-logo.png){: style="width:60px; height:60px; vertical-align:middle; margin-right:0.5rem;"} B.Tech in Computer Science and Engineering  
+### ![Amrita Logo](/images/amrita-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;"} B.Tech in Computer Science and Engineering  
 Amrita School of Engineering, India  
 *Jun 2016 – Jun 2020*  
 CGPA: **8.68 / 10**
@@ -27,11 +27,11 @@ CGPA: **8.68 / 10**
 ### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:60px; height:60px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
 
 #### Security System Engineer — Ericsson HQ  
-*Dec 2025 – Present | HQ*  
+*Dec 2025 – Present | Kista, Sweden*  
 - Assessing risks and security posture of RAN compute and cloud infrastructure.
 
 #### Master’s Thesis Researcher — Ericsson Nomadic Lab (Publication)  
-*Mar 2025 – Sep 2025 | Kista, Sweden & Kirkkonummi, Finland*  
+*Mar 2025 – Sep 2025 | Kirkkonummi, Finland*  
 - Kernel-based Remote Attestation framework: eBPF system call tracing, TLS 1.3 packet analysis, Measured Boot, Trusted Platform Module (TPM).  
 - Loadable Kernel Module (LKM): kfuncs, crypto APIs, character devices; kernel-generated signing keys extended into TPM PCRs.  
 - Temporal Convolutional Neural Network (TCN) for anomaly detection in syscall sequences.
