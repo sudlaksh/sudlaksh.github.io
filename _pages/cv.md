@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-### ![Aalto Logo](/images/aalto-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
+### ![Aalto Logo](/images/aalto-logo.png){: style="width:90px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
 Aalto University, Finland & EURECOM, France  
 *Aug 2023 – Sep 2025*  
 CGPA: **4.74 / 5**
