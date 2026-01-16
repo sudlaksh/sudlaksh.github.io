@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png"
   name             : "Sudharsun Lakshmi Narasimhan"
   pronouns         :
-  bio              : "Incoming Senior Engineer – Platform Security @ Qualcomm. Working on confidential computing, kernel security, remote attestation, and secure 5G systems."
+  #bio              : "Incoming Senior Engineer – Platform Security @ Qualcomm. Working on confidential computing, kernel security, remote attestation, and secure 5G systems."
   location         : "Hyderabad, India"
   employer         : "Qualcomm"
   #uri              : "https://github.com/sudlaksh"
