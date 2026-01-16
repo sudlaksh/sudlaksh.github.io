@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-### ![Aalto Logo](/images/aalto-logo.png){: style="width:90px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
+### ![Aalto Logo](/images/aalto-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
 Aalto University, Finland & EURECOM, France  
 *Aug 2023 – Sep 2025*  
 CGPA: **4.74 / 5**
@@ -29,7 +29,7 @@ CGPA: **8.68 / 10**
 *Dec 2025 – Present | Kista, Sweden*  
 - Assessing risks and security posture of RAN compute and cloud infrastructure.
 
-#### Master’s Thesis Researcher - Ericsson Nomadic Lab (Publication)  
+#### Master’s Thesis Researcher - Ericsson Nomadic Lab  
 *Mar 2025 – Sep 2025 | Kirkkonummi, Finland*  
 - Kernel-based Remote Attestation framework: eBPF system call tracing, TLS 1.3 packet analysis, Measured Boot, Trusted Platform Module (TPM).  
 - Loadable Kernel Module (LKM): kfuncs, crypto APIs, character devices; kernel-generated signing keys extended into TPM PCRs.  
