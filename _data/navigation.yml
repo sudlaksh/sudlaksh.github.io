@@ -9,11 +9,11 @@
 
 main:
   - title: "Experience"
-    url: /cv/
+    url: /experience/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Beyond Work"
-    url: /portfolio/
+    url: /beyond/
     
