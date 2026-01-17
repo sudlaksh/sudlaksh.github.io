@@ -118,9 +118,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : false
   google:
-    tracking_id          : "G-EL1RHVBG93"
+    tracking_id          :
 
 # Reading Files
 include:
