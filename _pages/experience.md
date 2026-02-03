@@ -23,13 +23,13 @@ CGPA: **8.68 / 10**
 
 ## Experience
 
-### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Qualcomm**  
+### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;" } 
 
 #### Senior Engineer - Core Platform Security  
 *Mar 2026 – Present | Hyderabad, India*  
 - Developing security-critical embedded software for next-generation server platforms.
   
-### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
+### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;" }
 
 #### Security System Engineer - Ericsson HQ  
 *Dec 2025 – Jan 2026 | Kista, Sweden*  
@@ -48,7 +48,7 @@ CGPA: **8.68 / 10**
 
 ---
 
-### ![Cisco Logo](/images/cisco-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Cisco Systems**  
+### ![Cisco Logo](/images/cisco-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;" }  
 
 #### Network Consulting Engineer  
 *Jan 2020 – Aug 2023 | Bengaluru, India*  
