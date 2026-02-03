@@ -23,7 +23,7 @@ CGPA: **8.68 / 10**
 
 ## Experience
 
-### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Qualcomm**  
+### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Qualcomm**  
 
 #### Senior Engineer - Core Platform Security  
 *Mar 2026 – Present | Hyderabad, India*  
