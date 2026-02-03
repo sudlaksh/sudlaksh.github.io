@@ -7,46 +7,8 @@ redirect_from:
 ---
 <div id="intro">
 
-  <p class="line">Hey, welcome 👋</p>
-
   <p class="line">
-    I’m <strong>Sudharsun Lakshmi Narasimhan</strong>.
-  </p>
-
-  <p class="line spacer">
-    I work at the intersection of<br>
-    <strong>platform security</strong>, <strong>kernel systems</strong>,<br>
-    and <strong>secure networking</strong>.
-  </p>
-
-  <p class="line">
-    I’m an <strong>incoming Senior Engineer – Platform Security</strong><br>
-    at <strong>Qualcomm, Hyderabad</strong>.
-  </p>
-
-  <p class="line">
-    My work spans <strong>industry and academic research</strong>,<br>
-    with a focus on <strong>trusted computing</strong> and
-    <strong>cloud-native systems</strong>.
-  </p>
-
-  <p class="line">
-    I hold an <strong>Erasmus Mundus Joint Master’s</strong><br>
-    in <strong>Security & Cloud Computing</strong>,<br>
-    completed at <strong>Aalto University 🇫🇮</strong> and
-    <strong>EURECOM 🇫🇷</strong>.
-  </p>
-
-  <p class="line">
-    My interests include <strong>confidential computing</strong>,<br>
-    <strong>remote attestation</strong>, <strong>eBPF-based monitoring</strong>,<br>
-    and <strong>secure 5G systems</strong>.
-  </p>
-
-  <p class="line">
-    I enjoy building <strong>practical security systems</strong>,<br>
-    exploring <strong>AI in cybersecurity</strong>,<br>
-    and collaborating on <strong>meaningful research</strong>.
+    Hey, I’m <strong>Sudharsun Lakshmi Narasimhan</strong> 👋 — an incoming <strong>Senior Engineer – Platform Security</strong> at <strong>Qualcomm, Hyderabad</strong>, working at the intersection of <strong>trusted computing</strong>, <strong>kernel systems</strong>, and <strong>secure networking</strong>. My work spans both <strong>industry and research</strong>, from building kernel-level attestation frameworks and eBPF monitoring tools to exploring <strong>secure 5G systems</strong> and <strong>confidential computing</strong> in cloud-native environments. Previously, I contributed to <strong>5G network automation at Cisco</strong> and conducted research at <strong>Ericsson Nomadic Lab</strong>, focusing on remote attestation, SGX-based secure networking, and system call anomaly detection. I hold an <strong>Erasmus Mundus Master’s in Security & Cloud Computing</strong>, studied at <strong>Aalto University 🇫🇮</strong> and <strong>EURECOM 🇫🇷</strong>, and began my journey in computer science at <strong>Amrita School of Engineering, India</strong>. Beyond systems and security, I enjoy <strong>building practical security solutions</strong>, experimenting with <strong>AI in cybersecurity</strong>, and collaborating on <strong>meaningful research projects</strong>.
   </p>
 
 </div>
@@ -75,7 +37,7 @@ redirect_from:
     } else {
       revealNext();
     }
-  }, 1000);
+  }, 800);
 
   ['click', 'keydown', 'wheel', 'touchstart'].forEach(event =>
     window.addEventListener(event, revealAll, { once: true })
