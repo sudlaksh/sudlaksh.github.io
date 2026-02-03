@@ -75,7 +75,7 @@ redirect_from:
     } else {
       revealNext();
     }
-  }, 600);
+  }, 1500);
 
   ['click', 'keydown', 'wheel', 'touchstart'].forEach(event =>
     window.addEventListener(event, revealAll, { once: true })
