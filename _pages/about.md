@@ -1,14 +1,83 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming Senior Engineer - Platform Security at Qualcomm, Hyderabad, with experience in trusted computing, kernel security, and network automation.
 
-I hold an Erasmus Mundus Joint Master’s degree in Security and Cloud Computing, as part of which I completed studies at Aalto University, Finland, and EURECOM, France. My academic and research work spans confidential computing, remote attestation, eBPF-based monitoring, and secure 5G systems. I have contributed to research at Ericsson Nomadic Lab, Finland, focusing on kernel-level attestation, system call tracing, QUIC protocol, and SGX-based secure networking.
+<div id="intro">
 
-Prior to my master’s, I worked at Cisco, where I contributed to automation and full-stack development for large-scale 5G packet core deployments using Kubernetes and containerized systems. My foundation in computer science began during my undergraduate studies at Amrita School of Engineering, Coimbatore, where I developed a strong interest in systems and security.
+  <p class="line">Hey, welcome 👋</p>
 
-I am particularly interested in platform security and network security, and I enjoy exploring practical applications of Artificial Intelligence in cybersecurity. I am always open to learning, collaboration, and contributing to meaningful security research and engineering efforts.
+  <p class="line">
+    I’m <strong>Sudharsun Lakshmi Narasimhan</strong>.
+  </p>
+
+  <p class="line spacer">
+    I work at the intersection of<br>
+    <strong>platform security</strong>, <strong>kernel systems</strong>,<br>
+    and <strong>secure networking</strong>.
+  </p>
+
+  <p class="line">
+    I’m an <strong>incoming Senior Engineer – Platform Security</strong><br>
+    at <strong>Qualcomm, Hyderabad</strong>.
+  </p>
+
+  <p class="line">
+    My work spans <strong>industry and academic research</strong>,<br>
+    with a focus on <strong>trusted computing</strong> and
+    <strong>cloud-native systems</strong>.
+  </p>
+
+  <p class="line">
+    I hold an <strong>Erasmus Mundus Joint Master’s</strong><br>
+    in <strong>Security & Cloud Computing</strong>,<br>
+    completed at <strong>Aalto University 🇫🇮</strong> and
+    <strong>EURECOM 🇫🇷</strong>.
+  </p>
+
+  <p class="line">
+    My interests include <strong>confidential computing</strong>,<br>
+    <strong>remote attestation</strong>, <strong>eBPF-based monitoring</strong>,<br>
+    and <strong>secure 5G systems</strong>.
+  </p>
+
+  <p class="line">
+    I enjoy building <strong>practical security systems</strong>,<br>
+    exploring <strong>AI in cybersecurity</strong>,<br>
+    and collaborating on <strong>meaningful research</strong>.
+  </p>
+
+</div>
+
+<script>
+  const lines = document.querySelectorAll('.line');
+  let index = 0;
+  let revealedAll = false;
+
+  function revealNext() {
+    if (index < lines.length) {
+      lines[index++].classList.add('visible');
+    }
+  }
+
+  function revealAll() {
+    if (revealedAll) return;
+    revealedAll = true;
+    lines.forEach(line => line.classList.add('visible'));
+  }
+
+  const interval = setInterval(() => {
+    if (index >= lines.length) {
+      clearInterval(interval);
+    } else {
+      revealNext();
+    }
+  }, 600);
+
+  ['click', 'keydown', 'wheel', 'touchstart'].forEach(event =>
+    window.addEventListener(event, revealAll, { once: true })
+  );
+</script>
