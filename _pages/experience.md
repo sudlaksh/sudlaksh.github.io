@@ -14,7 +14,7 @@ Aalto University, Finland & EURECOM, France
 *Aug 2023 – Sep 2025*  
 CGPA: **4.74 / 5**
 
-### ![Amrita Logo](/images/amrita-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;"} B.Tech in Computer Science and Engineering  
+### ![Amrita Logo](/images/amrita-logo.png){: style="width:110px; height:40px; vertical-align:middle; margin-right:0.5rem;"} B.Tech in Computer Science and Engineering  
 Amrita School of Engineering, India  
 *Jun 2016 – Jun 2020*  
 CGPA: **8.68 / 10**
@@ -23,7 +23,7 @@ CGPA: **8.68 / 10**
 
 ## Experience
 
-### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;" } 
+### ![Qualcomm Logo](/images/qualcomm-logo.png){: style="width:120px; height:40px; vertical-align:middle; margin-right:0.5rem;" } 
 
 #### Senior Engineer - Core Platform Security  
 *Mar 2026 – Present | Hyderabad, India*  
@@ -48,7 +48,7 @@ CGPA: **8.68 / 10**
 
 ---
 
-### ![Cisco Logo](/images/cisco-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;" }  
+### ![Cisco Logo](/images/cisco-logo.png){: style="width:90px; height:40px; vertical-align:middle; margin-right:0.5rem;" }  
 
 #### Network Consulting Engineer  
 *Jan 2020 – Aug 2023 | Bengaluru, India*  
