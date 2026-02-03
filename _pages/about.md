@@ -5,7 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div id="intro">
 
   <p class="line">Hey, welcome 👋</p>
