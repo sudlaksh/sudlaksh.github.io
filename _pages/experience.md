@@ -8,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 ## Education
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;"> <h2>Education</h2> <a href="/files/my_cv.pdf" target="_blank" rel="noopener noreferrer"> <button style=" background-color: #007ACC; color: white; border: none; padding: 0.4rem 1rem; font-size: 0.9rem; border-radius: 5px; cursor: pointer; "> Resume </button> </a> </div>
 
 ### ![Aalto Logo](/images/aalto-logo.png){: style="width:100px; height:40px; vertical-align:middle; margin-right:0.5rem;"} Erasmus Mundus Joint Master’s Degree (Honors) in Security and Cloud Computing  
 Aalto University, Finland & EURECOM, France  
