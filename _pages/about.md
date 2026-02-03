@@ -52,6 +52,7 @@ redirect_from:
 
 </div>
 
+{% raw %}
 <script>
   const lines = document.querySelectorAll('.line');
   let index = 0;
@@ -81,3 +82,4 @@ redirect_from:
     window.addEventListener(event, revealAll, { once: true })
   );
 </script>
+{% endraw %}
