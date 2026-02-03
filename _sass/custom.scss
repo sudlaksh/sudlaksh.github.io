@@ -1,0 +1,19 @@
+/* Progressive reveal on home/about page */
+
+#line-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.line {
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.line.visible {
+  opacity: 1;
+}
+
+.spacer {
+  margin: 1.5rem 0;
+}
