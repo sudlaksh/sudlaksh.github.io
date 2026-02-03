@@ -26,8 +26,8 @@ CGPA: **8.68 / 10**
 ### ![Ericsson Logo](/images/ericsson-logo.png){: style="width:40px; height:40px; vertical-align:middle; margin-right:0.5rem;" } **Ericsson**  
 
 #### Security System Engineer - Ericsson HQ  
-*Dec 2025 – Present | Kista, Sweden*  
-- Assessing risks and security posture of RAN compute and cloud infrastructure.
+*Dec 2025 – Jan 2026 | Kista, Sweden*  
+- Gained exposure to security risk assessment for Baseband and Cloud RAN infrastructure.
 
 #### Master’s Thesis Researcher - Ericsson Nomadic Lab  
 *Mar 2025 – Sep 2025 | Kirkkonummi, Finland*  
