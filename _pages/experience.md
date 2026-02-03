@@ -48,7 +48,7 @@ CGPA: **8.68 / 10**
 
 ---
 
-### ![Cisco Logo](/images/cisco-logo.png){: style="width:90px; height:40px; vertical-align:middle; margin-right:0.5rem;" }  
+### ![Cisco Logo](/images/cisco-logo.png){: style="width:80px; height:40px; vertical-align:middle; margin-right:0.5rem;" }  
 
 #### Network Consulting Engineer  
 *Jan 2020 – Aug 2023 | Bengaluru, India*  
